@@ -6,3 +6,6 @@ div{
     color: white;
     font-size: 10px;
 }
+button{
+    background-attachment: fixed;
+}
